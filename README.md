@@ -1,6 +1,8 @@
 # Social Media Content Performance Analysis
 
-![Social Media Content Performance Dashboard](social-media-content-performance-analysis/dashboard.png)## Project Overview
+![Social Media Content Performance Dashboard](social-media-content-performance-analysis/dashboard.png)
+
+## Project Overview
 
 This project analyzes 5,600 social media posts to identify the platforms, content categories, post formats, publishing times, hashtags, and regions associated with stronger engagement performance.
 
